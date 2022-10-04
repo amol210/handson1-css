@@ -1,0 +1,31 @@
+h1{
+    color: red;
+}
+h3{
+    color: red;
+}
+.text{
+    color: brown;
+   
+}
+.letter{
+    background-color: yellow;
+    font-weight: bold;
+}
+.through{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.under{
+    text-decoration: underline;
+    font-style: italic;
+}
+.inl{
+    color: brown;
+    letter-spacing: 5px;
+}
+a{
+    background-color: yellow;
+    color: red;
+    font-style: italic;
+}
